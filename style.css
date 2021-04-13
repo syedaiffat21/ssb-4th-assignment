@@ -1,0 +1,142 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    border-bottom: 1px solid #B5B4B8;
+}
+.header-content{
+
+width: 90%;
+
+margin-left: 5%;
+
+/* padding-top: 15px; */
+
+/* padding-bottom: 15px; */
+
+overflow: hidden;
+}
+.logo{
+
+width: 14%;
+
+float: left;
+}
+.logo img{
+
+width: 50%;
+}
+nav{
+    width: 30%;
+    padding-top: 10px;
+    float: right;
+}
+nav ul{
+
+list-style: none;
+
+overflow: hidden;
+}
+nav ul li{
+
+float: left;
+
+margin-right: 30px;
+
+font-size: 18px;
+
+text-transform: capitalize;
+}
+.content{
+
+/* margin: 20%; */
+
+width: 60%;
+
+margin-left: 20%;
+
+text-align: center;
+}
+.content h1{
+
+color: #008AFF;
+
+font-size: 40px;
+
+/* margin-top: 50%; */
+
+
+/* margin-top: 6%; */
+
+text-align: center;
+}
+.content p{
+
+text-align: center;
+
+font-size: 118%;
+
+/* margin-top: 30%; */
+
+margin-top: 2%;
+}
+.content img{
+
+/* text-align: center; */
+
+width: 39%;
+
+margin-top: 19px;
+}
+.content h1:first-child{
+    color: black;
+    margin-top: 50px;
+}
+.main-content{
+
+}
+.left-content{
+
+float: left;
+
+text-align: right;
+
+width: 51%;
+}
+.left-content h1{
+
+color: red;
+
+/* text-align: left; */
+
+color: red;
+
+color: red;
+
+text-align: right;
+
+color: red !important;
+
+color: red;
+
+color: red! importent;
+font-size: 50px;
+}
+.left-content p{
+
+text-align: right;
+}
+.right-content{
+
+width: 40%;
+
+float: right;
+}
+.right-content h1{
+    
+font-size: 50px;
+    
+text-align: left;
+}
+
